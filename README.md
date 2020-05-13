@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YJeongKim/DMB)](https://hits.seeyoufarm.com)
+
 # DMB : a Day in My Brain 💫
 
 <br>
