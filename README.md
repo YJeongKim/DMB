@@ -23,13 +23,13 @@
 |SUN|MON|TUE|WED|THU|FRI|SAT|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |   |   |   | 13| 14| 15| 16|
-||||[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-13.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-14.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-15.md)|❌|❌|
+||||[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-13.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-14.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-15.md)|❌|
 | 17| 18| 19| 20| 21| 22| 23|
-|&nbsp;|||||||
+|❌|||||||
 | 24| 25| 26| 27| 28| 29| 30|
-|&nbsp;||||||||
+|&nbsp;|||||||
 | 31|   |   |   |   |   |   |
-|&nbsp;||||||||
+|&nbsp;|||||||
 
 <br>
 
