@@ -25,15 +25,17 @@
 |   |   |   | 13| 14| 15| 16|
 ||||[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-13.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-14.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-15.md)|❌|
 | 17| 18| 19| 20| 21| 22| 23|
-|❌|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-18.md)||||||
+|❌|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-18.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-19.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-20.md)||||
 | 24| 25| 26| 27| 28| 29| 30|
-|&nbsp;|||||||
+|&nbsp;|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-25.md)||||||
 | 31|   |   |   |   |   |   |
 |&nbsp;|||||||
 
 <br>
 
 ## 🔎 노트 목록
+
+### 삽질 with Error
 
 ### JAVA
 
