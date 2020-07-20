@@ -18,6 +18,17 @@
 
 ###### ※ 아이콘 `⭕`를 클릭하면 해당 날짜의 글로 이동합니다.
 
+### [2020년 07월]
+
+|SUN|MON|TUE|WED|THU|FRI|SAT|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 19| 20| 21| 22| 23| 24| 25|
+||[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년07월기록/2020-07-20.md)||||||
+| 26| 27| 28| 29| 30| 31| |
+|&nbsp;|||||||
+
+<br>
+
 ### [2020년 05월]
 
 |SUN|MON|TUE|WED|THU|FRI|SAT|
@@ -28,8 +39,6 @@
 |❌|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-18.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-19.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-20.md)||||
 | 24| 25| 26| 27| 28| 29| 30|
 |&nbsp;|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년05월기록/2020-05-25.md)||||||
-| 31|   |   |   |   |   |   |
-|&nbsp;|||||||
 
 <br>
 
