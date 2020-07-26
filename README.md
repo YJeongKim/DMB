@@ -23,7 +23,7 @@
 |SUN|MON|TUE|WED|THU|FRI|SAT|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 19| 20| 21| 22| 23| 24| 25|
-||[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년07월기록/2020-07-20.md)||||||
+||[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년07월기록/2020-07-20.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년07월기록/2020-07-21.md)|[⭕](https://github.com/YJeongKim/DMB/blob/master/%23Today'sRecord/2020년07월기록/2020-07-22.md)||||
 | 26| 27| 28| 29| 30| 31| |
 |&nbsp;|||||||
 
